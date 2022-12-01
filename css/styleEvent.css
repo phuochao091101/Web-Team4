@@ -85,7 +85,7 @@ header {
  .hero {
     max-width: 114rem;
     height: 40rem;
-    background: url(/image/event/ITClub.jpg) no-repeat center center/cover;
+    background: url("../image/event/ITClub.jpg") no-repeat center center/cover;
  }
 
 main {
