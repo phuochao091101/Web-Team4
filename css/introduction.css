@@ -14,7 +14,7 @@ section{
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  background: linear-gradient(to right bottom, rgba(208, 213, 242, 0.5),rgba(11, 15, 37, 0.5)), url("/image/member/IT_Club.png") center center;
+  background: linear-gradient(to right bottom, rgba(208, 213, 242, 0.5),rgba(11, 15, 37, 0.5)), url("../image/member/IT_Club.png") center center;
   background-size: cover;
   background-position: center;
 }
