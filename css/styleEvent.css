@@ -136,7 +136,7 @@ main .profile-container .profile {
 main .profile-container .profile .img-container {
     width: 6rem;
     height: 6rem;
-    background: url(../image/event/developers-logo-color.png) no-repeat center center/cover;
+    background: url("../image/event/developers-logo-color.png") no-repeat center center/cover;
     border-radius: 0.5rem;
 }
 
